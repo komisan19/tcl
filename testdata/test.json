@@ -1,0 +1,16 @@
+{
+  "targets" : [
+    {
+      "name" : "yahoo",
+      "url" : "https://www.yahoo.co.jp/"
+    },
+    {
+      "name" : "google",
+      "url" : "https://www.google.co.jp/"
+    },
+    {
+      "name" : "404",
+      "url" : "https://example.com/404.html"
+    }
+  ]
+}
