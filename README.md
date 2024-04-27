@@ -22,3 +22,7 @@ $ tcl -f="test.json"
 | google | https://www.google.co.jp/    |    200 |
 +--------+------------------------------+--------+
 ```
+
+## License
+
+MIT
