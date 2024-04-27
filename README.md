@@ -12,6 +12,23 @@ Usage of tcl
 
 ## how to
 
+create json file. like this
+
+```json
+{
+  "targets": [
+    {
+      "name": "yahoo",
+      "url": "https://www.yahoo.co.jp/"
+    },
+    {
+      "name": "google",
+      "url": "https://www.google.co.jp/"
+    }
+  ]
+}
+```
+
 ```
 $ tcl -f="test.json"
 
