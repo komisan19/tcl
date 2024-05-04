@@ -45,7 +45,7 @@ func main() {
 		for _, v := range data {
 			table.Append(v)
 		}
-		table.Render() // Send output
+		table.Render()
 
 		os.Exit(0)
 	} else {
